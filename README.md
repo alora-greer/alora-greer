@@ -45,17 +45,6 @@ I contribute to resilient systems that power impactful energy research:
 - **Full-Stack Development**: Working on web applications for data visualization
 - **Data Engineering**: Supporting data pipelines for research
 
-## 🔧 Tech Stack
-
-**Infrastructure & DevOps**
-- Chef, Docker, Kubernetes
-- Terraform, GitHub Actions
-- Bash scripting for automation
-
-**Development**
-- Ruby on Rails, PostgreSQL, Redis
-- JavaScript/TypeScript, HTML/CSS
-
 ## 🚀 Featured Projects
 
 This GitHub showcases my personal DevOps journey through hands-on projects. My professional work contributions can be found on my work-affiliated GitHub.
