@@ -24,10 +24,10 @@ focus: "Infrastructure automation and DevOps practices"
 ```
 ┌─────────────── INFRASTRUCTURE ───────────────┐  ┌─────────────── DEVELOPMENT ────────────────┐
 │                                              │  │                                            │
-│  Chef         ████████                       │  │  Ruby on Rails ███████████████████         │
-│  Docker       ██████████████████             │  │  PostgreSQL    ██████████████              │
-│  Terraform                                   │  │  Redis         ██████                      │
-│  GitHub Act.  █████████████                  │  │  JavaScript    ████████████                │
+│  Chef         █████                          │  │  Ruby on Rails ███████████████████         │
+│  Docker       ███████████████                │  │  PostgreSQL    █████████                   │
+│  Terraform                                   │  │  Node.js       █                           │
+│  GitHub Act.  ████                           │  │  JavaScript    █████████                   │
 │  Kubernetes                                  │  │  HTML/CSS      ████████████████            │
 │                                              │  │                                            │
 └──────────────────────────────────────────────┘  └────────────────────────────────────────────┘
